@@ -1,0 +1,18 @@
+.bg-img-main {
+    background-image: url("https://fwlogistics.com/wp-content/uploads/2019/09/FWL_Sept_BlogImages_1_Warehouse.jpg");
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.width {
+    min-width: 80%;
+}
+
+.bg-dark-t {
+    background-color: #343a40d6;
+}
+
+.text-green {
+    color: #29b92d;
+}
